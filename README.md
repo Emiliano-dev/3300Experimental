@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+For my 3300 class v2
+
 * ...
